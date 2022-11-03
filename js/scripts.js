@@ -1,4 +1,5 @@
-const apiKey = "98492c92bb6793bf031b4a11b9f565c8";
+// put your account's weather API key
+const apiKey = "";
 const apiCountryURL = "https://countryflagsapi.com/png/";
 const apiUnsplash = "https://source.unsplash.com/1600x900/?";
 
